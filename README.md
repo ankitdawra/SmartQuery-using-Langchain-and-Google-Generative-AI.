@@ -24,4 +24,7 @@ This Notebook demonstrates how to build a question-answering system using Langch
 ### Execution instructions
 Copy the python file and run it simply in the jupyter notebook.
 
+### Recording Link
+https://drive.google.com/file/d/1QzWj_tHi4lzXZeCniaHaei_-fUZ3oZcc/view?usp=sharing
+
 
